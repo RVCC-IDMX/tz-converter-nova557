@@ -1,0 +1,23 @@
+{
+  "name": "tz-converter-nova557",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/tz-converter-nova557.git"
+  },
+  "author": "Cynthia Teeters <cynthia.teeters@raritanval.edu> (https://github.com/cynthiateeters)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/tz-converter-nova557/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/tz-converter-nova557#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34"
+  }
+}
